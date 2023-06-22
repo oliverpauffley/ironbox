@@ -1,0 +1,4 @@
+#+title: README
+
+* Iron Box
+Encrypt and decrypt secrets in git.
